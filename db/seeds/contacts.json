@@ -1,0 +1,32 @@
+[
+  {
+    "first_name": "Roman",
+    "last_name": "Lemon",
+    "email": "roman@mail.com",
+    "phone_number": "+983-234-232"
+  },
+  {
+    "first_name": "Larry",
+    "last_name": "Stanley",
+    "email": "larry@gmail.com",
+    "phone_number": "+454-343-234"
+  },
+  {
+    "first_name": "Robin",
+    "last_name": "Terry",
+    "email": "robin@hotmail.com",
+    "phone_number": "+434-343-234"
+  },
+  {
+    "first_name": "Vivian",
+    "last_name": "Holland",
+    "email": "vivian@mail.com",
+    "phone_number": "+343-343-234"
+  },
+  {
+    "first_name": "Samuel",
+    "last_name": "Munoz",
+    "email": "samuel@rambler.ru",
+    "phone_number": "+345-787-233"
+  }
+]
